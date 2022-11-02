@@ -12,7 +12,7 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-      My goal is to become a software developer is to help StartUp and established Companies to take their business to the next level and build awesome apps.
+      My goal is to become a software developer is to help Start-Up and established Companies to take their business to the next level and build awesome apps.
       </SectionText>
       <Button onClick={() => window.location ="https://www.instagram.com/gitnative/" }>Get In Touch</Button>
     </LeftSection>
