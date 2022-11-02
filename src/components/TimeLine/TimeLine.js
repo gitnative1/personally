@@ -44,6 +44,11 @@ const Timeline = () => {
 
   return (
     <Section id="about">
+      <SectionDivider />
+      <SectionText>
+        <br />
+        Hello, my name is Sigit Julianto, I am a junior frontend developer. 
+      </SectionText>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         I was born and lived in Indonesia until now and had a big decision ahead of me.
