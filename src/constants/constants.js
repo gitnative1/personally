@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Ziva Store',
     description: "Using Bootstrap 4 you'll learn how to build a Design Online Store Application - from start to finish.",
-    image: '/images/Ziva.png',
+    image: '/images/ziva.png',
     tags: ['Bootstrap 4'],
     source: 'https://asigitj.github.io/ziva-store-Demo/',
     visit: 'https://github.com/asigitj/ziva-store-Demo',
