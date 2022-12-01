@@ -1,21 +1,30 @@
 export const projects = [
   {
+    title: 'Rog Shop',
+    description: "Using MongoDB, Express.js, ReactJS, Node.js I finished to build an Online Shop Application - from start to finish.",
+    image: '/images/rogstore.png',
+    tags: ['MERN'],
+    source: 'https://rog-shop.vercel.app/',
+    visit: 'https://github.com/asigitj/rog.shop',
+    id: 0,
+  },
+  {
     title: 'Ziva Store',
-    description: "Using Bootstrap 4 you'll learn how to build a Design Online Store Application - from start to finish.",
+    description: "Using Bootstrap 4 I learn how to build a Design Online Store Application - from start to finish.",
     image: '/images/ziva.png',
     tags: ['Bootstrap 4'],
     source: 'https://asigitj.github.io/ziva-store-Demo/',
     visit: 'https://github.com/asigitj/ziva-store-Demo',
-    id: 0,
+    id: 1,
   },
   {
     title: 'Scientific Kalkulator',
-    description: "Using Html, CSS & JavaScript you'll learn how to build a Calculator Application - from start to finish.",
+    description: "Using Html, CSS & JavaScript I learn how to build a Calculator Application - from start to finish.",
     image: '/images/kalkulator.png',
     tags: ['Html', 'CSS', 'JavaScript'],
     source: 'https://asigitj.github.io/kalkulator-ilmiah-sederhana/',
     visit: 'https://github.com/asigitj/kalkulator-ilmiah-sederhana',
-    id: 1,
+    id: 2,
   },
 ];
 
