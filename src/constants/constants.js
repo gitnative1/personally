@@ -13,8 +13,8 @@ export const projects = [
     description: "Using Bootstrap 4 I learn how to build a Design Online Store Application - from start to finish.",
     image: '/images/ziva.png',
     tags: ['Bootstrap 4'],
-    source: 'https://asigitj.github.io/ziva-store-Demo/',
-    visit: 'https://github.com/asigitj/ziva-store-Demo',
+    source: 'https://gitnative1.github.io/ziva-store-Demo/',
+    visit: 'https://github.com/gitnative1/ziva-store-Demo',
     id: 1,
   },
   {
@@ -22,8 +22,8 @@ export const projects = [
     description: "Using Html, CSS & JavaScript I learn how to build a Calculator Application - from start to finish.",
     image: '/images/kalkulator.png',
     tags: ['Html', 'CSS', 'JavaScript'],
-    source: 'https://asigitj.github.io/kalkulator-ilmiah-sederhana/',
-    visit: 'https://github.com/asigitj/kalkulator-ilmiah-sederhana',
+    source: 'https://gitnative1.github.io/kalkulator-ilmiah-sederhana/',
+    visit: 'https://github.com/gitnative1/kalkulator-ilmiah-sederhana',
     id: 2,
   },
 ];
